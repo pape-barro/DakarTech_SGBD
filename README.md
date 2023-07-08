@@ -3,6 +3,7 @@
  * ##  SGBD
  
  ``` - Organisation du travail(20h): ```
+ * cours et TP;
 ``` - Evaluation: ```
  * Contrôles;
  * Examen ;
