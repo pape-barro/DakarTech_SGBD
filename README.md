@@ -10,4 +10,4 @@
  * Examen ;
 
  # ``` Contenu: ```
- 1. [`Support de cours`](https://github.com/pape-barro/DakarTech_SGBD/blob/main/SGBD-S3.pdf) ;
+ 1. [`Support de cours`](https://github.com/pape-barro/DakarTech_SGBD/blob/main/SGBD-S4-5.pdf) ;
