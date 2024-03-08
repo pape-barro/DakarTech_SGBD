@@ -10,9 +10,9 @@
  * Examen ;
 
  # ``` Contenu: ```
- 1. [`Généralités`](https://github.com/pape-barro/DakarTech_SGBD/blob/main/SGBD-final.pdf) ;
- 2. [`Le modèle conceptuel`]( ) ;
- 3. [`Le modèle relationnel`]( ) ;
- 4. [`Le langage SQL`]( ) ;
- 5. [`Etude et réalisation d’une base de données`]( ) ;
- 6. [`La sécurité des données`]( ) ;
+ 1. [`Généralités`]() ;
+ 2. [`Le modèle conceptuel`] ;
+ 3. [`Le modèle relationnel`] ;
+ 4. [`Le langage SQL`] ;
+ 5. [`Etude et réalisation d’une base de données`] ;
+ 6. [`La sécurité des données`] ;
